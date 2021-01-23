@@ -1,9 +1,5 @@
-### Hi Prateek Singh 👋
+### Hi I'm Prateek Singh 👋
 
-<!--
-**prateek883/prateek883** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 # Self-taught Developer and Learner
 # Technology I a# m good at -
@@ -15,6 +11,3 @@ Here are some ideas to get you started:
  👉 Mobile App :- React native
 - 💬 Ask me about Web Devloper Technologies.
 - 📫 singhprateek089@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
