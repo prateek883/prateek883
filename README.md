@@ -9,5 +9,4 @@
  👉 Rest API, XML,SOAP.
  👉 Git,GitHub,npm.
  👉 Mobile App :- React native
-- 💬 Ask me about Web Devloper Technologies.
 - 📫 singhprateek089@gmail.com
