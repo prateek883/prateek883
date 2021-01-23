@@ -2,7 +2,7 @@
 
 
 # Self-taught Developer and Learner
-# Technology I a# m good at -
+# Technology I am good at -
  👉 HTML,CSS, Bootstrap, JavaScript,ECMAScripts.
  👉  Angular,ReactJS,VueJS,NodeJS, ExpressJS
  👉  MySQL , MongoDB, Postgresql.
