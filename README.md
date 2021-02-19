@@ -1,6 +1,5 @@
 ### Hi I'm Prateek Singh 👋
 
-<img src="https://res.cloudinary.com/singhprateek089/image/upload/v1611410790/IMG_20180728_102707_u98cst.jpg">
 
 
 # Self-taught Developer and Learner
