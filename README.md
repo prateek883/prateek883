@@ -14,7 +14,7 @@
 - 📫 singhprateek089@gmail.com
 
 
-![image](https://res.cloudinary.com/singhprateek089/image/upload/v1628253581/undraw_programming_2svr_se0ibw.png)
+![image](https://res.cloudinary.com/singhprateek089/image/upload/v1628253781/undraw_Freelancer_re_irh4_mvjsp9.png)
 
 ## Find me around the web:
 
