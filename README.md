@@ -5,14 +5,16 @@
 ##### Self-taught Developer and Learner
  Technology I am good at -
 ####  HTML - CSS - Bootstrap - JavaScript - ES6.
-####  ReactJS - VueJS - NodeJS - ExpressJS
+####  ReactJS - NextJS - NodeJS - ExpressJS
 ####  MySQL - MongoDB - Postgresql.
 ####  Rest API - XML - SOAP.
 ####  Git - GitHub - NPM.
-####  Mobile App :- React native & Flutter
-#### Core Java, Spring , Spring Boot and Hibernate .
-####  Junit, Jest, Mocha
+####  Mobile App :- React native.
+####  Junit, Jest
 - 📫 singhprateek089@gmail.com
+
+
+![image](https://res.cloudinary.com/singhprateek089/image/upload/v1628253581/undraw_programming_2svr_se0ibw.png)
 
 ## Find me around the web:
 
