@@ -2,7 +2,7 @@
 
 
 
-##### Self-taught Developer and Learner
+### Self-taught Developer and Learner
  Technology I am good at -
 ####  HTML - CSS - Bootstrap - JavaScript - ES6.
 ####  ReactJS - NextJS - NodeJS - ExpressJS
