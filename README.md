@@ -9,7 +9,7 @@
 ####  MySQL - MongoDB - Postgresql.
 ####  Rest API - XML - SOAP.
 ####  Git - GitHub - NPM.
-####  Mobile App :- React native.
+####  Mobile App :- React Native.
 ####  Junit, Jest
 - 📫 singhprateek089@gmail.com
 
