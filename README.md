@@ -2,7 +2,7 @@
 
 
 
-### Self-taught Developer and Learner
+### Self-taught Developer and Learner  💻🖥
  Technology I am good at -
 ####  HTML - CSS - Bootstrap - JavaScript - ES6.
 ####  ReactJS - NextJS - NodeJS - ExpressJS
@@ -11,7 +11,7 @@
 ####  Git - GitHub - NPM.
 ####  Mobile App :- React Native.
 ####  Junit, Jest
-- 📫 singhprateek089@gmail.com
+### 📧 singhprateek089@gmail.com
 
 
 ## Find me around the web:
