@@ -11,7 +11,9 @@
 ####  Git - GitHub - NPM.
 ####  Mobile App :- React Native.
 ####  Junit, Jest
-### 📧 singhprateek089@gmail.com
+
+### Have projects in your mind then contact me!!!!!!!!!!!!
+### 📧 singh95prateek@gmail.com
 
 
 ## Find me around the web:
