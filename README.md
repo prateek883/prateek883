@@ -2,8 +2,8 @@
 
 
 
-### Self-taught Developer and Learner  💻🖥
- Technology I am good at -
+####  Hello I'am Sotware  Developer and having experience of 1.5 + years in web technologies  💻🖥
+####  Technology I am good at -
 ####  HTML - CSS - Bootstrap - JavaScript - ES6.
 ####  ReactJS - Redux - NodeJS - ExpressJS.
 ####  MySQL - MongoDB - Postgresql.
