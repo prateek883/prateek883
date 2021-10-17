@@ -21,4 +21,4 @@
 
 - Sharing updates on <a href="https://www.linkedin.com/in/prateek-singh-6ab984145/">LinkedIn</a>
 
-<a href="https://prateekdineshsingh.netlify.app/">Portfolio</a>
+- My Portfolio <a href="https://prateekdineshsingh.netlify.app/">Portfolio</a>
