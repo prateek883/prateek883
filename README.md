@@ -6,7 +6,7 @@
 ####  Technology I am good at -
 ####  HTML - CSS - Bootstrap - JavaScript - ES6.
 ####  ReactJS - Redux - NodeJS - ExpressJS.
-####  MySQL - MongoDB - Postgresql.
+####  MySQLWorkBench - MongoDB - PostgreSQL.
 ####  Rest API - XML - SOAP.
 ####  Git - GitHub - NPM.
 ####  CSS frameworks - MaterialUI - Bulma - Tailwind CSS.
