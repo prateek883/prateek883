@@ -12,6 +12,7 @@
 ####  CSS frameworks - MaterialUI - Bulma - Tailwind CSS.
 ####  Heroku and Netlify
 ####  Junit, Jest.
+####  Data Structures - Python
 
 ### Have projects in your mind then contact me!!!!!!!!!!!!
 ### 📧 singh95prateek@gmail.com
