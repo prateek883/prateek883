@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [mskwebdevelopment.com](mskwebdevelopment.com)
 
-- 💬 Ask me about **react.js,node.js,express.js**
+- 💬 Ask me about **React.js,Node.js,Express.js and MongoDB**
 
 - 📫 How to reach me **singh95prateek@gmail.com**
 
