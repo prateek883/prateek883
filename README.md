@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prateek883" alt="prateek883" /></a> </p>
 
-- 🔭 I’m currently working on **Kenko Tech**
-
 - 🌱 I’m currently learning **NextJS,Python**
 
 - 👨‍💻 All of my projects are available at [https://prateekdineshsingh.netlify.app](https://prateekdineshsingh.netlify.app)
