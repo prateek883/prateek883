@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prateek Dinesh Singh</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 🔭 I’m currently working on [metatrott website](https://metatrott-website.netlify.app/)
-
 - 🌱 I’m currently learning **NextJS,Python**
 
 - 👨‍💻 All of my projects are available at [https://prateekdineshsingh.netlify.app](https://prateekdineshsingh.netlify.app)
@@ -12,8 +10,6 @@
 - 💬 Ask me about **react.js,node.js,express.js**
 
 - 📫 How to reach me **singh95prateek@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/13TVTd3aEWzXr9FdyQ6mpbX32G3C2BJx4/view?usp=sharing](https://drive.google.com/file/d/13TVTd3aEWzXr9FdyQ6mpbX32G3C2BJx4/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
