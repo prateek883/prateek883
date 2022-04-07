@@ -1,19 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prateek Dinesh Singh</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 🌱 I’m currently learning **NextJS,Python**
 
-- 👨‍💻 All of my projects are available at [https://prateekdineshsingh.netlify.app](https://prateekdineshsingh.netlify.app)
-
-- 📝 I regularly write articles on [mskwebdevelopment.com](mskwebdevelopment.com)
-
-- 💬 Ask me about **react.js,node.js,express.js**
-
-- 📫 How to reach me **singh95prateek@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
