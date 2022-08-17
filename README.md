@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://prateek-portofolio.netlify.app/](https://prateek-portofolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@singh95prateekum](https://medium.com/@singh95prateekum)
+- 📝 I regularly write articles on [https://medium.com/@singh95prateekum](https://medium.com/@singh95prateek)
 
 - 💬 Ask me about **javascript,react.js, redux, Next.js**
 
