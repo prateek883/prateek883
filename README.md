@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek883&label=Profile%20views&color=0e75b6&style=flat" alt="prateek883" /> </p>
 
-- 🔭 I’m currently working on **Search Engine**
-
 - 🌱 I’m currently learning **Vite.js**
 
 - 📝 I regularly write articles on [https://medium.com/@singh95prateekum](https://medium.com/@singh95prateek)
