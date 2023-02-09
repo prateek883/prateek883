@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek883&label=Profile%20views&color=0e75b6&style=flat" alt="prateek883" /> </p>
 
-- 🌱 I’m currently learning **Front-End Technologies**
+- 🌱 I’m currently spending time in learning Bun.js, Fresh.js and Next.js
 
 - 📝 I regularly write articles on [https://medium.com/@singh95prateekum](https://medium.com/@singh95prateek)
 
