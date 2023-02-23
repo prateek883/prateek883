@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently spending time in learning Bun.js, Fresh.js and Next.js
 
-- 📝 I regularly write articles on [https://medium.com/@singh95prateekum](https://medium.com/@singh95prateek)
+- 📝 I regularly write articles on (https://coderbuddy.hashnode.dev/).
 
 - 💬 Ask me about **javascript,react.js, redux, Next.js**
 
