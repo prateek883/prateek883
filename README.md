@@ -1,6 +1,12 @@
 <h1 align="center">Hello everyone 👋</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left">My expertise lies in developing web applications and software solutions that streamline business operations and improve user experience. I'm skilled in full-stack development, from designing and implementing user interfaces to building robust backend systems.
+
+In addition to my technical skills, I'm a strong communicator and a team player. I thrive in collaborative environments and enjoy working closely with clients and colleagues to understand their needs and deliver solutions that exceed their expectations.
+
+You can find examples of my work on my GitHub profile, where I showcase my latest projects and contributions to open-source software. If you're interested in working together or have any questions about my experience, feel free to reach out!</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek883&label=Profile%20views&color=0e75b6&style=flat" alt="prateek883" /> </p>
 
 - 🌱 I’m currently spending time in learning Bun.js, Fresh.js and Next.js
