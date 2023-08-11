@@ -1,6 +1,6 @@
 <h1 align="center">Hello! everyone 👋</h1>
 
-<p align="left">My expertise lies in developing web applications and software solutions that streamline business operations and improve user experience. I'm skilled in full-stack development, from designing and implementing user interfaces to building robust backend systems.
+<p align="left">My expertise lies in developing web applications and software solutions that streamline business operations and improve user experience.
 
 In addition to my technical skills, I'm a strong communicator and a team player. I thrive in collaborative environments and enjoy working closely with clients and colleagues to understand their needs and deliver solutions that exceed their expectations.
 
