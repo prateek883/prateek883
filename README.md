@@ -1,6 +1,6 @@
 <h1 align="center">Hello! everyone 👋</h1>
 
-<p align="left">My experience is developing web applications and software solutions that streamline business operations and improve user experience.
+<p align="left">My experience is developing web applications and websites and improving user experience.
 
 You can find examples of my work on my GitHub profile, where I showcase my latest projects and contributions to open-source software. If you're interested in working together or have any questions about my experience, feel free to reach out!</p>
 
